@@ -3,3 +3,32 @@
 ```
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%6EBF8B&width=440&lines=Welcome+to+Willip7+GitHub+profile.;Hi,+I'+m+@willip7;I'+m+interested+in+Coding;I'+m+currently+learning+Machine+Learning;I'+m+looking+to+collaborate+on+GitHub;How+to+reach+me+@willip7.;Research+is+our+priority.;Thanks+for+reading.)](https://git.io/typing-svg)
 <!---willip7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.You can click the Preview link to take a look at your changes.--->
+### Getting in touch
+
+<a href="https://twitter.com/Trekhleb" title="Follow me on Twitter">
+  <img
+    width="24"
+    alt="Follow me on Twitter"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"
+  /></a>
+&nbsp;
+<a href="https://www.linkedin.com/in/trekhleb/" title="Follow me on LinkedIn">
+  <img
+    width="24"
+    alt="Follow me on LinkedIn"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
+  /></a>
+&nbsp;
+<a href="https://medium.com/@trekhleb" title="Follow me on Medium">
+  <img
+    width="24"
+    alt="Follow me on Medium"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/medium.svg"
+  /></a>
+&nbsp;
+<a href="https://dev.to/trekhleb" title="Follow me on DevTo">
+  <img
+    width="24"
+    alt="Follow me on DevTo"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/devto.svg"
+  /></a>

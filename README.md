@@ -17,7 +17,7 @@ willip7/willip7 is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&width=440&lines=Hi,+I"+m+@willip7;;How+to+reach+me+@willip7.;Research+is+our+priority.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&width=440&lines=Hi,+I'+m+@willip7;;How+to+reach+me+@willip7.;Research+is+our+priority.)](https://git.io/typing-svg)
 
 <!---
 👋+ Hi+,+ I+’+m+ @willip7

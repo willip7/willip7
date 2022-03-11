@@ -37,5 +37,5 @@
   <img
     width="24"
     alt="Follow me on Telegram"
-    src="https://cdn-images-1.medium.com/max/1600/1*3SkikH4xC8g7cesnX_1-pQ.png"
+    src="https://th.bing.com/th/id/OIP.695tufSi_FCv1xtBdFns7QHaHa?w=157&h=180&c=7&r=0&o=5&pid=1.7"
   /></a>

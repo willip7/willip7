@@ -32,9 +32,3 @@
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/devto.svg"
   /></a>
 &nbsp;
-<a href="https://t.me/willip7" title="Follow me on Telegram">
-  <img
-    width="24"
-    alt="Follow me on Telegram"
-    src="https://i.pinimg.com/736x/1c/39/c8/1c39c81fccba10c48869ce903c533845.jpg"
-  /></a>

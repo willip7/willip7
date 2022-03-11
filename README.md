@@ -5,28 +5,28 @@
 <!---willip7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.You can click the Preview link to take a look at your changes.--->
 ### Getting in touch
 
-<a href="https://twitter.com/Trekhleb" title="Follow me on Twitter">
+<a href="https://twitter.com/willip7" title="Follow me on Twitter">
   <img
     width="24"
     alt="Follow me on Twitter"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/twitter.svg"
   /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/trekhleb/" title="Follow me on LinkedIn">
+<a href="https://www.linkedin.com/in/willip7/" title="Follow me on LinkedIn">
   <img
     width="24"
     alt="Follow me on LinkedIn"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/linkedin.svg"
   /></a>
 &nbsp;
-<a href="https://medium.com/@trekhleb" title="Follow me on Medium">
+<a href="https://medium.com/@willip7" title="Follow me on Medium">
   <img
     width="24"
     alt="Follow me on Medium"
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/medium.svg"
   /></a>
 &nbsp;
-<a href="https://dev.to/trekhleb" title="Follow me on DevTo">
+<a href="https://dev.to/willip7" title="Follow me on DevTo">
   <img
     width="24"
     alt="Follow me on DevTo"

@@ -37,5 +37,5 @@
   <img
     width="24"
     alt="Follow me on Telegram"
-    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/devto.svg"
+    src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/telegram.svg"
   /></a>

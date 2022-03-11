@@ -9,7 +9,7 @@
 willip7
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&width=440&lines=Welcome+to+Willip7+GitHub+profile.;Hi+,+ I+’+m+ @willip7;Research+is+our+priority.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23FF3F36&width=440&lines=Welcome+to+Willip7+GitHub+profile.;Hi+ I+’+m+ @willip7;Research+is+our+priority.)](https://git.io/typing-svg)
 
 
 <!---

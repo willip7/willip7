@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%6EBF8B&width=440&lines=Welcome+to+Willip7+GitHub+profile.;Hi,+I'+m+@willip7;I'+m+interested+in+Coding;I'+m+currently+learning+Machine+Learning;I'+m+looking+to+collaborate+on+GitHub;How+to+reach+me+@willip7.;Research+is+our+priority.;Thanks+for+reading.)](https://git.io/typing-svg)
 <!---willip7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.You can click the Preview link to take a look at your changes.--->
 ### Getting in touch
-
 <a href="https://twitter.com/willip7" title="Follow me on Twitter">
   <img
     width="24"

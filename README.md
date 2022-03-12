@@ -36,7 +36,4 @@
 &nbsp;
 <br>
 <br>
-<a href="https://github.com/willip7">
-    <img src="https://github-readme-stats.vercel.app/api?username=willip7&title_color=002573&show_icons=true&3&icon_color=28057D" align="center"/>
-</a> 
-<hr>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=willip7&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />

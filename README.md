@@ -1,8 +1,9 @@
+![Profile Views](https://komarev.com/ghpvc/?username=willip7&color=brightgreen)
 ```
 ---w-i-l-l-i-p-7---
 ```
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%6EBF8B&width=440&lines=Welcome+to+Willip7+GitHub+profile.;Hi,+I'+m+@willip7;I'+m+interested+in+Coding;I'+m+currently+learning+Machine+Learning;I'+m+looking+to+collaborate+on+GitHub;How+to+reach+me+@willip7.;Research+is+our+priority.;Thanks+for+reading.)](https://git.io/typing-svg)
-![Profile Views](https://komarev.com/ghpvc/?username=willip7&color=brightgreen)
+
 <!---willip7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.You can click the Preview link to take a look at your changes.--->
 ### Getting in touch
 <a href="https://twitter.com/willip7" title="Follow me on Twitter">
@@ -33,4 +34,13 @@
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/devto.svg"
   /></a>
 &nbsp;
-<!--- --->
+<br>
+<br>
+<a href="https://github.com/willip7">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willip7&title_color=002573&text_color=002573" />
+</a>
+<a href="https://github.com/willip7">
+    <img src="https://github-readme-stats.vercel.app/api?username=willip7&title_color=002573&show_icons=true&3&icon_color=28057D" />
+  </a>
+  <hr>
+  

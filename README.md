@@ -10,6 +10,8 @@
 <br>
 <br>
 ![Profile Views](https://komarev.com/ghpvc/?username=willip7&color=brightgreen)
+<!---[![Twitter: willip7](https://img.shields.io/twitter/follow/+?style=flat-square)](https://twitter.com/+)--->
+[![GitHub: willip7](https://img.shields.io/github/followers/willip7?label=follow%20github&color=brightgreen)](https://github.com/willip7)
 ### Getting in touch
 <a href="https://twitter.com/willip7" title="Follow me on Twitter">
   <img

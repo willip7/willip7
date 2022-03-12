@@ -40,6 +40,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazarus&layout=compact&theme=buefy&hide_border=true" />
 </a>
 <a href="https://github.com/willip7">
-    <img src="https://github-readme-stats.vercel.app/api?username=willip7&title_color=002573&show_icons=true&3&icon_color=28057D" />
-  </a>
-  <hr>
+    <img src="https://github-readme-stats.vercel.app/api?username=willip7&title_color=002573&show_icons=true&3&icon_color=28057D" align="center"/>
+</a>
+<hr>

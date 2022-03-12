@@ -32,3 +32,4 @@
     src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/icons/devto.svg"
   /></a>
 &nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=willip7&style=flat-square)

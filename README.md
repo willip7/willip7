@@ -12,6 +12,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=willip7&color=brightgreen)
 <!---[![Twitter: willip7](https://img.shields.io/twitter/follow/+?style=flat-square)](https://twitter.com/+)--->
 [![GitHub: willip7](https://img.shields.io/github/followers/willip7?label=follow%20github&color=brightgreen)](https://github.com/willip7)
+<p align="center">
+    <a href="https://willip7.github.io/cv/" alt="portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-willip7-brightgreen.svg" />
+    </a>&emsp;
+    <a href="https://t.me/willip7/" alt="Telegram">
+        <img src="https://img.shields.io/badge/-willip7-blue?style=social&logo=Telegram&logoColor=blue" />
+    </a>&emsp;
+</p>
+
 ### Getting in touch
 <a href="https://twitter.com/willip7" title="Follow me on Twitter">
   <img

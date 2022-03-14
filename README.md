@@ -49,4 +49,7 @@
     <a href="https://t.me/willip7" alt="Telegram">
         <img src="https://img.shields.io/badge/-willip7-blue?style=social&logo=Telegram&logoColor=blue" />
     </a>&emsp;
+    <a href="https://www.paypal.com/paypalme/willip7" alt="PayPal">
+        <img src="https://img.shields.io/badge/-willip7-blue?style=social&logo=PayPal&logoColor=blue" />
+    </a>&emsp;
 </p>

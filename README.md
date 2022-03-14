@@ -6,10 +6,10 @@
 <!---willip7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.You can click the Preview link to take a look at your changes.--->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarus&layout=compact&theme=github_dark&hide=php,javascript,css,tsql,html,scss,makefile,shell,dockerfile)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=willip7&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=willip7&show_icons=true&icon_color=4E9F3D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 <br>
 <br><!-- https://github.com/willip7/github-readme-activity-graph -->
-<a href="https://github.com/willip7/github-readme-activity-graph"><img alt="willip7's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=willip7&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/willip7/github-readme-activity-graph"><img alt="willip7's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=willip7&bg_color=000000&color=4E9F3D&line=4E9F3D&point=FFFFFF&hide_border=true" /></a>
 <br>
 <br>
 <br>
@@ -48,6 +48,7 @@
 &nbsp;
 <br>
 <br>
+
 <p align="right">
     <a href="https://willip7.github.io/cv/" alt="portfolio">
         <img src="https://img.shields.io/badge/Portfolio-willip7-brightgreen.svg" />

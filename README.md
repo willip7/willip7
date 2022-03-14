@@ -1,15 +1,15 @@
 ```
 ---w-i-l-l-i-p-7---
 ```
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%6EBF8B&width=440&lines=Welcome+to+Willip7+GitHub+profile.;Hi,+I'+m+@willip7;I'+m+interested+in+Coding;I'+m+currently+learning+Machine+Learning;I'+m+looking+to+collaborate+on+GitHub;How+to+reach+me+@willip7.;Research+is+our+priority.;Thanks+for+reading.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=06FF00&width=440&lines=Welcome+to+Willip7+GitHub+profile.;Hi,+I'+m+@willip7;I'+m+interested+in+Coding;I'+m+currently+learning+Machine+Learning;I'+m+looking+to+collaborate+on+GitHub;How+to+reach+me+@willip7.;Research+is+our+priority.;Thanks+for+reading.)](https://git.io/typing-svg)
 
 <!---willip7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.You can click the Preview link to take a look at your changes.--->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarus&layout=compact&theme=github_dark&hide=php,javascript,css,tsql,html,scss,makefile,shell,dockerfile)
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=willip7&show_icons=true&icon_color=4E9F3D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=willip7&show_icons=true&icon_color=06FF00&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 <br>
 <br><!-- https://github.com/willip7/github-readme-activity-graph -->
-<a href="https://github.com/willip7/github-readme-activity-graph"><img alt="willip7's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=willip7&bg_color=000000&color=4E9F3D&line=4E9F3D&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/willip7/github-readme-activity-graph"><img alt="willip7's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=willip7&bg_color=000000&color=4E9F3D&line=06FF00&point=FFFFFF&hide_border=true" /></a>
 <br>
 <br>
 <br>

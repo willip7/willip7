@@ -46,7 +46,7 @@
     <a href="https://willip7.github.io/cv/" alt="portfolio">
         <img src="https://img.shields.io/badge/Portfolio-willip7-brightgreen.svg" />
     </a>&emsp;
-    <a href="https://t.me/willip7/" alt="Telegram">
+    <a href="https://t.me/willip7" alt="Telegram">
         <img src="https://img.shields.io/badge/-willip7-blue?style=social&logo=Telegram&logoColor=blue" />
     </a>&emsp;
 </p>

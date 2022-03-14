@@ -12,7 +12,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=willip7&color=brightgreen)
 <!---[![Twitter: willip7](https://img.shields.io/twitter/follow/+?style=flat-square)](https://twitter.com/+)--->
 [![GitHub: willip7](https://img.shields.io/github/followers/willip7?label=follow%20github&color=brightgreen)](https://github.com/willip7)
-<p align="center">
+<p align="right">
     <a href="https://willip7.github.io/cv/" alt="portfolio">
         <img src="https://img.shields.io/badge/Portfolio-willip7-brightgreen.svg" />
     </a>&emsp;

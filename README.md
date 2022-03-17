@@ -48,7 +48,10 @@
 &nbsp;
 <br>
 <br>
-
+<div align="center">
+<br>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{willip7}/count.svg" /></p> 
+<br></div>
 <p align="right">
     <a href="https://willip7.github.io/cv/" alt="portfolio">
         <img src="https://img.shields.io/badge/Portfolio-willip7-brightgreen.svg" />

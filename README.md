@@ -10,7 +10,7 @@
 <br>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=willip7&show_icons=true&icon_color=06FF00&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 <br>
-<br>
+<br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=willip7&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 <br>
 <br>

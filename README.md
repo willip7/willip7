@@ -8,6 +8,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lazarus&layout=compact&theme=github_dark&hide=php,javascript,css,tsql,html,scss,makefile,shell,dockerfile)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=willip7&show_icons=true&icon_color=06FF00&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 <br>
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=willip7&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
 <br><!-- https://github.com/willip7/github-readme-activity-graph -->
 <a href="https://github.com/willip7/github-readme-activity-graph"><img alt="willip7's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=willip7&bg_color=000000&color=4E9F3D&line=06FF00&point=FFFFFF&hide_border=true" /></a>
 <br>
